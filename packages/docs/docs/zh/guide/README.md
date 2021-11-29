@@ -44,8 +44,6 @@ VuePress 由两部分组成：第一部分是一个[极简静态网站生成器]
 
 **博客主题**
 
-* [文档](https://vuepress-theme-blog.ulivz.com/)
-* [在线案例](https://ulivz.com/)
 
 **Plugin**
 
